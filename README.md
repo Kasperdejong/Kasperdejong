@@ -1,6 +1,6 @@
-- Basic programming SKILLS:
-  Php, Javascript and excalibur.
+- programming SKILLS:
+  React, Laravel, Neural Networks, Php, Javascript and excalibur.
 
-  -I like making websites in visual studio code. Specifically the layout and how it will look
+  -I like making websites in PHPStorm Specifically the layout and how it will look
 
  ¯\_(ツ)_/¯
