@@ -1,6 +1,7 @@
 - programming SKILLS:
-  React, Laravel, Neural Networks, Php, Javascript and excalibur.
+  React, Laravel, Vue, Neural Networks, Php, Javascript, Python, Unity (C#).
 
-  -I like making websites in PHPStorm Specifically the layout and how it will look
-
+  -I like making creative websites. Specifically creative and interesting features.
+  -Also like making websites look nice!
+  
  ¯\_(ツ)_/¯
